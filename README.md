@@ -12,6 +12,7 @@ I'm an AI and Data Science student at Methodist College of Engineering and Techn
 
 ## GitHub Stats
 ![FaizanMohd5's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizanMohd5&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaizanMohd5&theme=radical)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMohd5&layout=compact&theme=radical)
