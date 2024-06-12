@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ## About Me<br>I'm an AI and Data Science student at Methodist College of Engineering and Technology. I have a passion for software development, competitive programming, and web development. Below are some of the projects I've worked on and my contributions to the GitHub community.<br><br>- 🔭 I’m currently engaged in competitive programming, while also working on mini projects to apply what I've learnt.<br>- 🌱 I’m learning advanced data science techniques and web development.<br>- 👯 I’m looking to collaborate on open source projects.<br>- 💬 Ask me about Python, Java, DSA and web development.<br>- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mohammed-faizan-b05539201)<br>- ⚡ Fun fact: I find joy in coding and derive satisfaction from troubleshooting and fixing errors.
 
 
