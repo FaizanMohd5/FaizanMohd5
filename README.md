@@ -10,7 +10,7 @@ I'm an AI and Data Science student at Methodist College of Engineering and Techn
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FaizanMohd5&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FaizanMohd5&theme=midnight-purple&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FaizanMohd5&theme=midnight-purple&hide_border=false)](https://github.com/FaizanMohd5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanmohd5&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/FaizanMohd5/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FaizanMohd5&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
