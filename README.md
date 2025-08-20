@@ -1,9 +1,31 @@
+# Highlights
+⭐ Selected at OpenText as Software Dev Apprentice (May 2025).<br>
+⭐ Selected at Cognizant as Program Analyst Trainee (April 2025).<br>
+
+**Note:** Actively Looking for opportunities in Hyderabad or Remote.
+
 # About Me:
-I'm an AI and Data Scientist. I have a passion for software development, competitive programming, and web development. Below are some of the projects I've worked on and my contributions to the GitHub community.<br><br>- 🔭 I’m currently engaged in competitive programming, while also working on B2B projects to apply what I've learnt.<br>- 🌱 I’m learning advanced data science techniques and web development.<br>- 👯 I’m looking to collaborate on open source projects.<br>- 💬 Ask me about Python, Java, DSA and web development.<br>- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mohammed-faizan-b05539201)<br>- ⚡ Fun fact: I find joy in coding and derive satisfaction from troubleshooting and fixing errors.
+I'm Specialized in Backend development. I have deep interest in programming, and backend development. Below are some of the projects I've worked on and my contributions to the GitHub community.<br>
+## 🎯 What Sets Me Apart
+
+I don’t just focus on the technical side of an application — I also think from a business perspective. That reflects my **result-oriented mindset**.
+
+I don’t ask, “How do I build this before the deadline?”  
+I ask, “How do I ensure the current iteration covers core requirements without compromising:”
+
+- 🔐 **Security** — No API key pushes or hardcoded credentials.
+- ⚙️ **Reliability** — Exceptions should never expose themselves.
+- 🚀 **Scalability** — That’s why I’m learning REST APIs: so my app delivers data independent of client-side logic.
+- 🧩 **Separation of Concerns** — I like things modularized. It’s cleaner, easier to maintain, and promotes reuse.
+
+This mindset helps me build systems that are not just functional, but production-ready and recruiter-friendly.
+<br>- 🌱 I’m learning Spring Boot.<br>- 👯 I'm looking to team up and work on a variety of projects — whether it's enterprise systems like ERP or ECM, or contributing to open-source initiatives.<br>- 💬 Feel free to ask me about Java, DSA, or anything related to development — or ask me to find vulnerabilities in your backend codebase.<br>- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mohammed-faizan-b05539201) or mail me @ faizanmohammed416@gmail.com<br>- ⚡ Fun fact: I get a kick out of optimizing backend systems — whether it's caching with Redis or spotting a sneaky exception that slipped past error handling. Clean logs, clean code, happy me.
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-faizan-b05539201) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22577589/faizan-mohammed) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/faizan416) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-faizan-b05539201) 
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
