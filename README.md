@@ -11,7 +11,7 @@ I'm Specialized in Backend development. I have deep interest in programming, and
 I don’t just focus on the technical side of an application — I also think from a business perspective. That reflects my **result-oriented mindset**.
 
 I don’t ask, “How do I build this before the deadline?”  
-I ask, “How do I ensure the current iteration covers core requirements without compromising:”
+I ask, “How do I ensure the current iteration covers core requirements without compromising⬇️:”
 
 - 🔐 **Security** — No API key pushes or hardcoded credentials.
 - ⚙️ **Reliability** — Exceptions should never expose themselves.
