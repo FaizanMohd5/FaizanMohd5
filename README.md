@@ -1,43 +1,183 @@
-# Highlights
-⭐ Selected at OpenText as Software Dev Apprentice (May 2025).<br>
-⭐ Selected at Cognizant as Program Analyst Trainee (April 2025).<br>
+<div align="center">
 
-**Note:** Actively Looking for opportunities in Hyderabad or Remote.
+# FAIZAN MOHAMMED
 
-# About Me:
-I'm Specialized in Backend development. I have deep interest in programming, and backend development. Below are some of the projects I've worked on and my contributions to the GitHub community.<br>
-## 🎯 What Sets Me Apart
+### Software Engineer · Product Engineering · AI Systems
 
-I don’t just focus on the technical side of an application — I also think from a business perspective. That reflects my **result-oriented mindset**.
+I build software around problems worth solving.
 
-I don’t ask, “How do I build this before the deadline?”  
-I ask, “How do I ensure the current iteration covers core requirements without compromising⬇️:”
+Backend systems, intelligent workflows, and products designed with real-world constraints in mind.
 
-- 🔐 **Security** — No API key pushes or hardcoded credentials.
-- ⚙️ **Reliability** — Exceptions should never expose themselves.
-- 🚀 **Scalability** — That’s why I’m learning REST APIs: so my app delivers data independent of client-side logic.
-- 🧩 **Separation of Concerns** — I like things modularized. It’s cleaner, easier to maintain, and promotes reuse.
+<br/>
 
-This mindset helps me build systems that are not just functional, but production-ready and recruiter-friendly.
-<br>- 🌱 I’m learning Spring Boot.<br>- 👯 I'm looking to team up and work on a variety of projects — whether it's enterprise systems like ERP or ECM, or contributing to open-source initiatives.<br>- 💬 Feel free to ask me about Java, DSA, or anything related to development — or ask me to find vulnerabilities in your backend codebase.<br>- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mohammed-faizan-b05539201) or mail me @ faizanmohammed416@gmail.com<br>- ⚡ Fun fact: I get a kick out of optimizing backend systems — whether it's caching with Redis or spotting a sneaky exception that slipped past error handling. Clean logs, clean code, happy me.
+<a href="https://linkedin.com/in/mohammed-faizan-b05539201"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:faizanmohammed416@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/FaizanMohd5"><img src="https://img.shields.io/badge/GitHub-FaizanMohd5-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-faizan-b05539201) 
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FaizanMohd5&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FaizanMohd5&theme=midnight-purple&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanmohd5&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/FaizanMohd5/github-readme-stats)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FaizanMohd5&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FaizanMohd5&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+| **130+** | **94%** | **70 → 90%** |
+|:---:|:---:|:---:|
+| API endpoints contributed to | Webhook trigger reduction | Regression / persistence stability |
+
+<sub>Highlights from professional engineering work</sub>
+
+</div>
+
+<br/>
+
+## SELECTED WORK
+
+*Two personal projects. Two very different engineering rabbit holes.*
+
+### 01 — Voice AI Doctor Appointment Booking
+
+**Real-time voice · Conversational AI · Tool calling**
+
+<img src="./assets/doctor-appointment-preview.png" width="100%" alt="Voice AI Doctor Appointment Booking"/>
+
+Building a voice-based appointment booking experience introduced me to a completely different side of application engineering.
+
+I got to explore WebRTC, speech-to-text, text-to-speech, and the little details that make a voice conversation feel natural. One particularly interesting discovery was how Voice Activity Detection (VAD) and pause handling can prevent unnecessary ElevenLabs usage when the caller isn't actually speaking.
+
+ElevenLabs was a rabbit hole of its own. Exploring its voice library, experimenting with different voices, and stumbling across those philosophical quotes in the voice samples was genuinely fun.
+
+And then there's **Pipecat**. Probably my favourite part of the exploration. I enjoyed understanding how its pipeline philosophy brings together audio processing, tool calling, and conversational infrastructure. I especially liked how opinionated it is about the pipeline, while remaining largely unopinionated about transports, providers, and deployment.
+
+It gave me a much better appreciation of what it takes to build real-time conversational systems.
+
+<sub>
+
+`Python` &nbsp; `Pipecat` &nbsp; `WebRTC` &nbsp; `ElevenLabs` &nbsp; `STT / TTS` &nbsp; `VAD`
+
+</sub>
+
+<div align="right">
+
+<a href="https://github.com/FaizanMohd5/voice-ai-doctor-appointment-booking">EXPLORE REPOSITORY ↗</a>
+
+</div>
+
+---
+
+### 02 — QTrack Lite
+
+**Queue management · Concurrency · Full-stack engineering**
+
+<img src="./assets/qtrack-preview.png" width="100%" alt="QTrack Lite application preview"/>
+
+While building QTrack Lite, I learned that a queue is a lot more than handing someone the next number.
+
+I got to work across the whole journey: a customer joins through a simple public page, watches their place update, and the shop owner moves the line forward from a dashboard.
+
+The part that really made me think was handling people joining or being called at the same time. PostgreSQL transactions and row locks helped me make sure tokens stay in order and nobody accidentally gets skipped.
+
+I also learned how much the little details matter: resetting queues according to the shop's timezone, protecting customer lookups, and keeping useful logs without spilling private information.
+
+And I had fun bringing the whole thing together with React, Express, and Docker — turning what could have been a paper sign-in sheet into a small, working system.
+
+<sub>
+
+`React` &nbsp; `Express.js` &nbsp; `PostgreSQL` &nbsp; `Prisma` &nbsp; `Docker`
+
+</sub>
+
+<div align="right">
+
+<a href="YOUR_QTRACK_LITE_REPO_URL">EXPLORE REPOSITORY ↗</a>
+
+</div>
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### Software Engineer — Eight Cubic Feet
+<sub>Product engineering · ArtIntOO · AI & Automation Systems</sub>
+
+Working across product development, backend engineering, integrations, and AI-powered business workflows.
+
+My work has involved understanding business requirements, designing service boundaries, building integrations, and making systems more reliable and economical to operate.
+
+A few areas I've worked across:
+
+- Backend APIs, persistence layers, and service architecture.
+- AI-powered workflows and reusable n8n sub-workflows.
+- WhatsApp Business, Meta APIs, Twilio, and voice integrations.
+- Gmail API, Google Pub/Sub, Calendar integrations, and event-driven automation.
+- Speech processing, LLM integrations, and application workflows.
+- Backend performance, webhook optimization, and regression reliability.
+
+**Selected engineering impact**
+
+- 130+ API endpoints contributed to across the product platform.
+- Reduced Meta webhook processing triggers from 50 to 3 relevant events per message.
+- Improved persistence and regression stability from approximately 70% to 90%.
+
+<sub>TypeScript · Node.js · Python · NestJS · Express · PostgreSQL · Prisma · Redis · Next.js · n8n · Docker</sub>
+
+---
+
+## THE TOOLBOX
+
+*Tools are just tools. Understanding where and why to use them is the interesting part.*
+
+<div align="center">
+
+### Languages & Core Stack
+
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+
+<br/>
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=express,nestjs,fastapi,mongodb,redis,mysql,prisma&theme=dark" />
+
+<br/>
+
+### AI, Voice & Automation
+
+<a href="https://www.daily.co/products/pipecat/"><img src="https://img.shields.io/badge/Pipecat-Voice%20AI-8B5CF6?style=for-the-badge"/></a>
+<a href="https://elevenlabs.io/"><img src="https://img.shields.io/badge/ElevenLabs-Text%20to%20Speech-000000?style=flat&logo=elevenlabs&logoColor=white"/></a>
+<a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/></a>
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-LLM%20Applications-1C3C3C?style=flat&logo=langchain&logoColor=white"/></a>
+
+<br/>
+
+### Integrations & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,aws,azure&theme=dark" />
+
+<img src="https://img.shields.io/badge/Meta-WhatsApp%20Business-1877F2?style=flat&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twilio-Communications-F22F46?style=flat&logo=twilio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20APIs-Integrations-4285F4?style=flat&logo=google&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Curious about the systems behind the software.
+
+Distributed systems · Event-driven architecture · AI agents · Real-time communication
+
+<br/>
+
+<a href="https://linkedin.com/in/mohammed-faizan-b05539201">LET'S CONNECT ↗</a>
+
+<br/><br/>
+
+<sub>Building thoughtfully. Learning constantly. Shipping with purpose.</sub>
+
+</div>
